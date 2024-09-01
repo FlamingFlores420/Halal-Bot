@@ -14,5 +14,5 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/halal-bot.git
+   git clone https://github.com/Younes-Nait-Bakkou/halal-bot.git
    cd halal-bot
